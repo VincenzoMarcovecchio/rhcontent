@@ -18,7 +18,7 @@ Data Trends
 The attacks observed were distributed constantly in the first part of the month, at the end of the Italian Christmas holidays and close to the Orthodox holidays. At this juncture, activity peaks were recorded on 12 January 2022 and 17 January 2022, the date of publication of the data leak of the Italian luxury giant Moncler by the new cyber criminal group Alphvm / BlackCat.
 
 
-Subsequently, a marked increase in activity was recorded between 25 and 27 January 2022 due to an intense operation of the LockBit and Snatch groups, where the potential involvement of the French Ministry of Justice among the victims of extortion attempts was found. .
+Subsequently, a marked increase in activity was recorded between 25 and 27 January 2022 due to an intense operation of the LockBit and Snatch groups, where the potential involvement of the French Ministry of Justice among the victims of extortion attempts was found.
 
 
 Organizations from 33 nations were subjected to ransomware double extortion attempts in January 2022, cumulatively, the West is confirmed as the prime target of this disruptive phenomenon.
@@ -64,3 +64,9 @@ Arrest of 14 alleged members of the REvil gang, carried out directly by the Russ
 
 New Technical Tactics and Procedures (TTPs)
 In this month, a new extortion method was detected, related to the DeadBolt ransomware, which hit through a zeroday, the NAS of the famous vendor QNAP. Specifically, the cyber gang, in addition to targeting NAS owners, asking for the encryption key 0.03 bitcoin (about 1,100 dollars), turned to QNAP itself saying that if it is willing to pay 5 Bitcoins of the value of 184,000 dollars, would have provided the exploit of the zeroday used. Furthermore, in the message, they always asked QNAP for the figure of 50 bitcoins worth about 1.9 million dollars, to release the main decryption key to unlock all the victims of the infection.
+
+
+We are also witnessing an increase in the RaaS offer related to Linux ransomware, in fact as well as in HelloKitty, BlackMatter, Revil, AvosLocker and Hive, recently LOCKBIT has focused part of its efforts to compromise virtual machines hosted on Linux servers And then activate the encryption payload. This denotes an interest that we are moving from physical servers to virtual machines that today are used by all companies to save computer resources, consolidate servers and simplify backup operations.
+
+
+Furthermore, confidential sources have reported the use of secondary extortion practices by sending threatening communications to customers of companies victim of ransomware attack as seen in the Italian scene.
