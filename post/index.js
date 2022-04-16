@@ -20,7 +20,7 @@ the note said.
 
 The wiper is written with the .NET framework and spreads like a worm.
 
-At runtime, immediately call the IsRussia () function, check the system's public IP address using the https: // api [.] Ipify [.] Org service.
+At runtime, immediately calls the IsRussia () function, check the system's public IP address using the https: // api [.] Ipify [.] Org service.
 
 Using the IP address, the malware determines the location of the machine using the URL https: // ip-api [.] Com / # <public ip>.
 
